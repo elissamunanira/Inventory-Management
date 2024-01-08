@@ -8,6 +8,7 @@ use App\Http\Controllers\RawMaterialController;
 use App\Http\Controllers\RawMaterialRequestController;
 use App\Http\Controllers\RoleController;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
