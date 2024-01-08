@@ -7,6 +7,7 @@
     <title>Inventory Management System</title>
 </head>
 <body>
-    <center><h1>WELCOME TO INVENTORY MANAGEMENT SYSTEM</h1></center>
+    <h1>WELCOME TO OUR INVENTORY MANAGEMENT SYSTEM</h1>
+    <p>Please <a href="/login">Login</a> to continue</p>
 </body>
 </html>
