@@ -22,9 +22,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/', ['HomeController']);
+
 Route::group(['middleware' => ['auth']], function () {
   // Home
-  Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
+  Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
 
   // Users
   Route::resource('users', UserController::class);

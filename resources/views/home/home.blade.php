@@ -7,6 +7,6 @@
     <title>Inventory Management System</title>
 </head>
 <body>
-    <center><h1>INVENTORY MANAGEMENT SYSTEM</h1></center>
+    <center><h1>WELCOME TO INVENTORY MANAGEMENT SYSTEM</h1></center>
 </body>
 </html>
